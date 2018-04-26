@@ -1,6 +1,5 @@
 /*
 Author: Jared Rigdon
-CS 315 HW 6
 
 Generate random binary numbers with n digits. Assume that the msb is 1 and the lsb is also 1.
 Use a single Fermats test  3^(N-1)=1(mod N) for each number
